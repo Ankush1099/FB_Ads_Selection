@@ -6,9 +6,13 @@ You have been hired as a consultant to a start-up that is running a targetted ma
 # Inputs:
 
 Name
+
 e-mail
+
 Country
+
 Time on Facebook
+
 Estimated Salary (derived from other parameters)
 
 # Outputs:
